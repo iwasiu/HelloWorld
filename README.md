@@ -1,1 +1,5 @@
-## This is an App That print "HelloWorld"
+## __This is an App That prints "HelloWorld"__
+* Creates class 'HelloWorld'
+* Creates no argument constructor
+* Print Statement
+
